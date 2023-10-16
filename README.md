@@ -4,7 +4,7 @@ Módulo 11
 
 Programa criado para ler um nome e sexo. Separando as pessoas por grupos "Masculino e "Feminino".
 Utilizei nesse projeto as coleções em JAVA que são estruturas de dados que permitem armazenar e manipular grupos de objetos. Existem várias interfaces e classes de implementação disponíveis para manipular coleções em Java. As coleções em Java são implementadas por meio de interfaces e classes que oferecem diferentes funcionalidades, dependendo das necessidades do programa.
-Interfaces utilizada nesse projeto: 
+A interface utilizada nesse projeto foi: 
 List: Uma coleção ordenada que permite elementos duplicados. As implementações são: ArrayList e LinkedList.
 
 ## Skills utilizadas:
